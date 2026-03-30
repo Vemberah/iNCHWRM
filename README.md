@@ -10,7 +10,9 @@ Those desires are as follows,
 - No trackpad
 - Hot swappable i/o
 - A satisfying way to turn the beast on and off
+
 and lastly, 
+
 - unapologetically thick
 
 ## The Method 
