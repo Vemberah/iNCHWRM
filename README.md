@@ -1,4 +1,5 @@
 # iNCHWRM
+![iNCHWRM Logo](/iNCHWRM.PNG)
 An impractical, Framework based custom laptop project, measured in inches. 
 
 ## The Concept 
