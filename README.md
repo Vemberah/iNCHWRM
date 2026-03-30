@@ -17,4 +17,4 @@ and lastly,
 - unapologetically thick
 
 ## The Method 
-For the bulk majority of the projects components i will be utilizing the various components built for the Framework 13. For the brains, I have selected the AMD Ryzen 5 7640U mainboard as i do not anticipate needing the power of the Ryzen 7. This unlikely, however, potential oversight can easily be corrected on a $500 whim, as is the nature of Frameworks ecosystem. 
+For the bulk of the projects components i will be utilizing the various components built for the Framework 13. For the brains, I have selected the AMD Ryzen 5 7640U mainboard as i do not anticipate needing the power of the Ryzen 7. This unlikely, however, potential oversight can easily be corrected on a $500 whim, as is the nature of Frameworks ecosystem. 
