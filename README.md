@@ -1,2 +1,2 @@
 # iNCHWRM
-An impracticable, Framework based custom laptop project, measured in inches. 
+An impractical, Framework based custom laptop project, measured in inches. 
